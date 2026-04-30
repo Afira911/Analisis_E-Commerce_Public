@@ -1,4 +1,4 @@
-# E-Commerce Analytics Dashboard ✨
+# E-Commerce Analytics Dashboard 
 
 ## Setup Environment - Anaconda
 ```
